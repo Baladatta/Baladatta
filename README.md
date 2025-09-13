@@ -6,7 +6,7 @@ This repository contains my **ATS-optimized resume** for internship and job appl
 ---
 
 ## 🔗 Quick Links  
-- [📥 Download Resume (PDF)](./Ramisetty_Baladatta_Resume.pdf)  
+- [📥 Download Resume (PDF)](https://github.com/Baladatta/resume/raw/main/Ramisetty_Baladatta_Resume.pdf)
 - [🌐 LinkedIn Profile](https://www.linkedin.com/in/ramisetty-baladatta-5574032b7)  
 - [💻 GitHub Profile](https://github.com/Baladatta)  
 
